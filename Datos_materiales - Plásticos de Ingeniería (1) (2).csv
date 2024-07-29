@@ -1,0 +1,20 @@
+Material;mod_elasticidad_aproximado_Mpsi;mod_elasticidad_aproximado_Gpa;Res_max_tension_kpsi;Res_max_tension_Mpa;Res_max_comp_kpsi;Res_max_comp_Mpa;Elongación en 2 in (%);Temperatura máxima (°F);Gravedad específica;Tipo
+ABS;0.3;2.1;6.0;41.4;10.0;68.9;may-25;160-200;01.05;0
+ABS cargado con 20-40% de vidrio;0.6;4.1;10.0;68.9;12.0;82.7;3;200-230;1.30;0
+Acetal;0.5;3.4;8.8;60.7;18.0;124.1;60;220;1.41;0
+Acetal cargado con 20-30% de vidrio;1.0;6.9;10.0;68.9;18.0;124.1;7;185-220;1.56;0
+Acrílico;0.4;2.8;10.0;68.9;15.0;103.4;5;140-190;1.18;0
+Fluoroplástico (TFE);0.2;1.4;5.0;34.5;6.0;41.4;100;350-390;2.10;0
+Nylon 6/6;0.2;1.4;10.0;68.9;10;68.9;60;180-300;1.14;0
+Nylon;0.2;1.3;8.0;55.2;8.0;55.2;300;180-300;01.04;0
+Nylon 11 cargado con 20-30% de vidrio;0.4;2.5;12.8;88.3;12.8;88.3;4;250-340;1.26;0
+Policarbonato;0.4;2.4;9.0;62.1;12;82.7;100;250;1.2;0
+Policarbonato cargado con 10-40% de vidrio;1.0;6.9;17.0;117.2;17.0;117.2;2;275;1.35;0
+Polietileno HMW;0.1;0.7;2.5;17.2;-;-;525;-;0.94;0
+Óxido de polifenileno;0.4;2.4;9.6;66.2;16.4;113.1;20;212;01.06;0
+Óxido de polifenileno cargado con 20-30% de fibra de vidrio;1.1;7.8;15.5;106.9;17.5;120.7;5;260;1.23;0
+Polipropileno;0.2;1.4;5.0;34.5;7;48.3;500;250-320;0.9;0
+Polipropileno cargado con 20-30% de vidrio;0.7;4.8;7.5;51.7;6.2;42.7;2;300-320;1.10;0
+Poliestireno de alto impacto;0.3;2.1;4.0;27.6;6.0;41.4;feb-80;140-175;01.07;0
+Poliestireno de alto impacto cargado con 20-30% de vidrio;0.1;0.7;12.0;82.7;16.0;110.3;1;180-200;1.25;0
+Polisulfona;0.4;2.5;10.2;70.3;13.9;95.8;50;300-345;1.24;0
